@@ -9,7 +9,7 @@ function getPlugins() {
 			['@semantic-release/changelog', { changelogFile: 'CHANGELOG.md' }],
 			['@semantic-release/npm'],
 			['@semantic-release/git', {
-				assets: ['CHANGELOG.md', 'package.json'],
+				assets: ['CHANGELOG.md', 'package.json', 'package-lock.json'],
 				message: '${nextRelease.version} CHANGELOG [skip ci]\n\n${nextRelease.notes}',
 			}],
 			'@semantic-release/github',
