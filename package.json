@@ -8,7 +8,12 @@
   },
   "main": "build/index.js",
   "types": "build/index.d.ts",
-  "files": ["build", "LICENSE", "README.md", "package.json"],
+  "files": [
+    "build",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
