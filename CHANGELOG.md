@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.0.1...v1.0.2) (2023-01-23)
+
+
+### Bug Fixes
+
+* rename package ([90a92bc](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/90a92bc47bbd6948a930000a970e8583fdf23877))
+
 ## [1.0.1](https://github.com/JS-AK/test-dep-44/compare/v1.0.0...v1.0.1) (2023-01-22)
 
 
