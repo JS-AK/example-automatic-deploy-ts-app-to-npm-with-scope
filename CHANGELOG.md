@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.0.2...v1.0.3) (2023-01-23)
+
+
+### Bug Fixes
+
+* add dependabot.yml ([625d9a7](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/625d9a71bb4972705af08613a574ac9ac816cdad))
+
 ## [1.0.2](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.0.1...v1.0.2) (2023-01-23)
 
 
