@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.0.4...v1.0.5) (2023-09-16)
+
+
+### Bug Fixes
+
+* update dev-deps to actual ([9e79142](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/9e79142c41295fecb9548ef2f8684ee6aa4048f7))
+
 ## [1.0.4](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.0.3...v1.0.4) (2023-06-23)
 
 
