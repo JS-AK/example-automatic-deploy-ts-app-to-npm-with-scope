@@ -1,6 +1,6 @@
 {
   "name": "@js-ak/example-automatic-deploy-ts-app-to-npm-with-scope",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "example-automatic-deploy-ts-app-to-npm-with-scope",
   "publishConfig": {
     "access": "public",
