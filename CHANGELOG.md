@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.0.6...v1.1.0) (2024-03-11)
+
+
+### Bug Fixes
+
+* updated gha ([8cb2d72](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/8cb2d7212d01029910034ae5e7691f2e65219db3))
+
+
+### Features
+
+* update dev-deps to actual ([d32678c](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/d32678c2b33f45b6d780818abc743bafd78976d8))
+
 ## [1.0.6](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.0.5...v1.0.6) (2023-11-06)
 
 
