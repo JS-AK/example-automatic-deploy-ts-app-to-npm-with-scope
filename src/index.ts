@@ -1,1 +1,1 @@
-export const isTest = (str: string) => str === 'TEST2'
+export * from './lib/index.js'
