@@ -1,3 +1,5 @@
 .npmignore
 
 src/test/
+
+test/
