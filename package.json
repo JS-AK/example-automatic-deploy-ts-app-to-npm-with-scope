@@ -10,7 +10,9 @@
   "types": "build/index.d.ts",
   "files": [
     "build/lib",
-    "build/index",
+    "build/index.js",
+    "build/index.d.js",
+    "build/index.d.js.map",
     "LICENSE",
     "README.md",
     "package.json"
