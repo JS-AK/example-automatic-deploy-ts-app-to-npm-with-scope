@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.3.4...v1.4.0) (2024-03-24)
+
+
+### Bug Fixes
+
+* renamed .releaserc ([6fe1486](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/6fe1486d7ded5758a19aaac80bdbd5532159d2d8))
+
+
+### Features
+
+* added tests to .github workflow ([bccaef9](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/bccaef9be5e67802a53e8525977f98430aea2328))
+
 ## [1.3.4](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.3.3...v1.3.4) (2024-03-24)
 
 
