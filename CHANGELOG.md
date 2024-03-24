@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.3.3...v1.3.4) (2024-03-24)
+
+
+### Bug Fixes
+
+* updated .npmignore ([bcc709a](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/bcc709a2f203ced059417f4fee8c79dac3f4f240))
+
 ## [1.3.3](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.3.2...v1.3.3) (2024-03-24)
 
 
