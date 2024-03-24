@@ -6,6 +6,20 @@ on:
       - master
 
 jobs:
+
+  runner-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Tests
+        run: npm test
+
   release:
     name: Release
     runs-on: ubuntu-latest
