@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.1.0...v1.2.0) (2024-03-24)
+
+
+### Features
+
+* added .npmignore for test ([1ebefc1](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/1ebefc14462856faef29394fac9f8296024fc3b6))
+
 # [1.1.0](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.0.6...v1.1.0) (2024-03-11)
 
 
