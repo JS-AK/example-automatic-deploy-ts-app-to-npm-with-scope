@@ -1,5 +1,3 @@
 .npmignore
 
-src/test/
-
-test/
+build/test/
