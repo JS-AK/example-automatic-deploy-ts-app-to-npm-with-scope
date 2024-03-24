@@ -9,7 +9,8 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "files": [
-    "build",
+    "build/lib",
+    "build/index",
     "LICENSE",
     "README.md",
     "package.json"
