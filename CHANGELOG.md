@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.4.0...v1.5.0) (2024-03-28)
+
+
+### Features
+
+* added docu ([97d641e](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/97d641e65758ce35ac74400f0832def1e2d48268))
+
 # [1.4.0](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.3.4...v1.4.0) (2024-03-24)
 
 
