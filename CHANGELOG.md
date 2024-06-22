@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.6.0...v1.6.1) (2024-06-22)
+
+
+### Bug Fixes
+
+* updated uncontrolled resource consumption in braces ([a89cc54](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/commit/a89cc5477cb8e6f6c92e17066e51b69f2c4f4b9c))
+
 # [1.6.0](https://github.com/JS-AK/example-automatic-deploy-ts-app-to-npm-with-scope/compare/v1.5.0...v1.6.0) (2024-06-17)
 
 
